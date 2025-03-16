@@ -1,0 +1,63 @@
+body{
+    background:url(loginpage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+     
+}
+.a
+{ width: 500px;
+  height: 400px;
+  margin-top: 250px;
+  margin-left: 500px;
+  margin-bottom: 500px;
+  margin-right: 450px;
+  border-width: 3PX;
+  border-color: rgb(115, 153, 153);
+  border-style: solid;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  color: rgb(211, 169, 169);
+}
+.b{
+  width: 400px;
+  height: 25px;
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-bottom:20px;
+  margin-right: 10px;
+  border-radius: 10px;
+  color: rgb(10, 12, 9);
+}
+h1{
+  margin-left: 175px;
+color: rgb(97, 97, 193);
+}
+.c{
+  margin-left: 50px;
+  color: aliceblue;
+}
+.d{
+  width: 400px;
+  height: 32px; 
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-bottom:20px;
+  margin-right: 10px;
+  padding-left: 50px;
+  padding-top: 10px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+  font-size: 10px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: rgb(224, 202, 176);
+  
+  
+}
+
+
